@@ -9,8 +9,9 @@ html p{
 }
 body {
   background-color: aqua;
-  background-image: url();
-  margin: 0;
+  background-image: url(./assets/images/background-pattern-desktop.svg);
+  background-repeat: no-repeat;
+
   display: flex;
   align-items: center;
   justify-content: center;
