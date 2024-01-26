@@ -8,13 +8,18 @@ html p{
   font-size: 16px;
 }
 body {
-  background-color: hsl(275,100%,97%);
+  background-color: lightblue;
   background-image: url(./assets/images/background-pattern-desktop.svg);
   background-repeat: no-repeat;
-
+  margin: 150px 250px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  font-family:'Work Sans', sans-serif;
 }
 
+.main {
+  background-color: white;
+  width: 100%;
+}
