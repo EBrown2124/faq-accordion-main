@@ -17,6 +17,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 100vh;
   font-family:'Work Sans', sans-serif;
 }
 
@@ -26,7 +27,6 @@ body {
   display: flex;
   flex-direction: column;
   padding: 0 30px 0 30px;
-  margin: 142px 0 0 0;
   border-radius: 20px;
   width: 600px;
 }
